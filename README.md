@@ -1,4 +1,6 @@
-## Hi there 👋
+## Aryaman Pandya
+
+Hacking on robotic systems, machine learning, language models and more.
 
 <!--
 **aryamanpandya99/aryamanpandya99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
