@@ -1,6 +1,6 @@
 ## Aryaman Pandya
 
-Hacking around with robotic systems, reinforcement learning, language models and more.
+Playing around with robotic systems, reinforcement learning, language models and anything synthetically intelligent.
 
 <!--
 **aryamanpandya99/aryamanpandya99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
